@@ -7,4 +7,4 @@
 # chosentopic
 * [Mice Behavior in Space](https://science.nasa.gov/biological-physical/focus-areas/animal-biology/mice-behavior/?utm_source=chatgpt.com)
 * [Muscle Response in Space](https://arxiv.org/abs/2309.15888?utm_source)
-* 
+* [Mice Neural Network](https://www.mdpi.com/1422-0067/20/1/7)
